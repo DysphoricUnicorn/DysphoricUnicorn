@@ -2,7 +2,8 @@
 
 ![an "under construction" sign on a macbook keyboard](https://github.com/DysphoricUnicorn/DysphoricUnicorn/blob/master/img/under_construction.jpeg)
 
-This github profile is still under construction..
+This github profile is still under construction.. Image credit: 
+[Fernando Arcos](https://www.pexels.com/@ferarcosn)
 
 ## About me
 I'm a 20-something full stack engineer who does their best to build accessible websites (and make their peers do the same.)
