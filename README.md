@@ -1,6 +1,6 @@
 # Hello and welcome to my github profile
 
-![an "under construction" sign on a macbook keyboard](https://github.com/DysphoricUnicorn/DysphoricUnicorn/blob/master/img/under_construction.jpeg)
+![an "under construction" sign on a macbook keyboard](https://github.com/DysphoricUnicorn/DysphoricUnicorn/blob/main/img/under_construction.jpeg)
 
 This github profile is still under construction.. Image credit: 
 [Fernando Arcos](https://www.pexels.com/@ferarcosn)
