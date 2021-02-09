@@ -1,9 +1,6 @@
 # Hello and welcome to my github profile
 
-![an "under construction" sign on a macbook keyboard](https://github.com/DysphoricUnicorn/DysphoricUnicorn/blob/main/img/under_construction.jpeg)
-
-This github profile is still under construction.. Image credit: 
-[Fernando Arcos](https://www.pexels.com/@ferarcosn)
+![Part of a keyboard with the keys d, e and v lit in the colors of the trans pride flag](https://files.svc.dysphoric.space/img/dev_keyboard_trans_pride.jpg)
 
 ## About me
 I'm a 20-something full stack engineer who does their best to build accessible websites (and make their peers do the same.)
