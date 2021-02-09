@@ -5,10 +5,6 @@
 ## About me
 I'm a 20-something full stack engineer who does their best to build accessible websites (and make their peers do the same.)
 
-_"Fun" fact:_ I am currently searching for a job as a full stack or frontend developer.  
-I am also available as a freelance consultant/ QA person to check your site for accessibility and UX problems.  
-If you want to hire someone like that, feel free to message me ^^
-
 When talking about me please use either _they/them_, _nin/nins_ or _she/her_ pronouns.
 __There are so many to chose from!__ Just do not use _"he/him"_.
 
