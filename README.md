@@ -8,6 +8,6 @@ I'm a 20-something full stack engineer who does their best to build accessible w
 When talking about me please use either _they/them_, _nin/nins_ or _she/her_ pronouns.
 __There are so many to chose from!__ Just do not use _"he/him"_.
 
-At my last job I used to work with PHP and JS and that's what most of my side projects are built on as well. And while most of them aren't (yet) public, I do have many of those.
+At my dayjob I mostly work on frondends with React and Material-ui.  
+My side projects are a mix of PHP, Python and JS. Most of that sadly isn't open sourced yet but I am planning on fixing that.
 
-My current goal is to prepare as many side projects to be in a usable and maintainable state so I can finally open source them so stay tuned for that ^^
