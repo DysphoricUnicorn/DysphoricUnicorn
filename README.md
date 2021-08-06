@@ -1,7 +1,5 @@
 # Hello and welcome to my github profile
 
-![Part of a keyboard with the keys d, e and v lit in the colors of the trans pride flag](https://files.svc.dysphoric.space/img/dev_keyboard_trans_pride.jpeg)
-
 ## About me
 I'm a 20-something full stack engineer who does their best to build accessible websites (and make their peers do the same.)
 
